@@ -12,5 +12,7 @@ During development there were used:
 - SASS (default in template)
 - jQuery and its libraries (default in template)
 
+Dump of the database added with 'DB DUMP added'
+
 
 
